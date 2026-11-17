@@ -1,0 +1,3 @@
+# Video files for notechdebt.dev. Search engines may fetch them: the pages that show them are on notechdebt.dev.
+User-agent: *
+Allow: /
